@@ -1,6 +1,6 @@
 # DDoS Attack Sequence Diagram
 
-This document outlines a **sequence diagram** for a **Distributed Denial of Service (DDoS) attack**, detailing interactions between the attacker, the botnet, the targeted web server, and the firewall (defensive mechanism).
+This document outlines a **sequence diagram** for a **Distributed Denial of Service (DDoS) attack**, showing interactions between the attacker, the botnet, the targeted web server, and the firewall (defensive mechanism).
 
 ## Sequence Diagram
 
